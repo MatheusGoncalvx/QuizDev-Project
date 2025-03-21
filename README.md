@@ -1,12 +1,23 @@
-# React + Vite
+# QuizDev - React + Vite 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o **meu primeiro projeto com React**, feito com muito esforço, curiosidade e umas boas doses de dúvida também kkkkk.  
+A proposta é um **quiz online bem simples** pra ajudar (eu incluso 😅) a descobrir se a pessoa tem mais perfil de desenvolvedor(a) **front-end**, **back-end** ou **full-stack**.
 
-Currently, two official plugins are available:
+## 🧠 Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto exibe uma lista de perguntas, cada uma com opções de resposta que indicam o estilo de desenvolvimento preferido. No final, ele mostra o resultado baseado nas respostas escolhidas.
 
-## Expanding the ESLint configuration
+Foi feito como forma de **praticar React**, entender **componentes, props, estados**, e treinar a **estruturação com Vite e Tailwind**. E sim, apanhei bastante, mas aprendi muito também 😄.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Tecnologias usadas
+
+- **React** (meu primeiro contato real com ele)
+- **Vite** (pra setup rápido e leve)
+- **Tailwind CSS** (pra estilizar sem sofrer muito com CSS puro)
+- **Flowbite** (pra dar uma ajudinha nos componentes visuais)
+- **JavaScript** (ainda tô pegando o jeito, mas estamos indo!)
+
+## 💬 Observações
+
+> Esse projeto não é super elaborado, mas é sincero. Foi minha forma de aprender errando, quebrando tudo e reconstruindo até entender como o React funciona.  
+> Não é perfeito, mas é meu primeiro passo no mundo dos componentes! 🙌
